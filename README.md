@@ -5,6 +5,7 @@
 **I'm currently learning Computer-Imformation-Communication Engineering & Artificial Intelligence-Cyber Security** 
 
 
+
 ### [Experience]
 ■ **Kangwon National University, Computer Information Communication Engineering** (2018.03 ~ )
 
