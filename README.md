@@ -12,7 +12,11 @@
 
 ■ **Republic Of Korea Army Sergent, Honorable Discharge** **[Tiger DIV]** (2019.04.02 ~ 2020.11.03)
 
+■ **Farmland Registers Cleanup Assistant, Uljin-eup Office** (2020.11.03 ~ 2020.12.31)
+
 ■ **GS25 Uljin Saemasil Branch, Store Manager** (2021.03 ~ 2021.05)
+
+■ **Farmland Registers Cleanup Assistant, Uljin-eup Office** (2021.06 ~ 2021.07)
 
 ■ **KISIA[Korea Information Security Industry Association], Youth Experience type Intern** (2021.10.05 ~ 2021.12.03)
 
