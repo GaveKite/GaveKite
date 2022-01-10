@@ -15,7 +15,7 @@
 
 ■ **GS25 Chuncheon Seoksa Branch, Store Manager** (2018.04 ~ 2018.12)
 
-■ **Republic Of Korea Army Sergent, Honorable Discharge** **[Tiger DIV]** (2019.04.02 ~ 2020.11.03)
+■ **Republic Of Korea Army Sergent, Honorable Discharge** **[Capital Mechanized Infantry DIV]** (2019.04.02 ~ 2020.11.03)
 
 ■ **Farmland Registers Cleanup Assistant, Uljin-eup Office** (2020.11.03 ~ 2020.12.31)
 
