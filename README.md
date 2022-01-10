@@ -23,7 +23,7 @@
 
 ■ **Farmland Registers Cleanup Assistant, Uljin-eup Office** (2021.06 ~ 2021.07)
 
-■ **KISIA[Korea Information Security Industry Association], Youth Experience type Intern** (2021.10.05 ~ 2021.12.03)
+■ **KISIA [Korea Information Security Industry Association], Youth Experience type Intern** (2021.10.05 ~ 2021.12.03)
 
 ■ **Kangwon National University, Artificial Intelligence Cyber Security** (2022.03 ~ )
 
