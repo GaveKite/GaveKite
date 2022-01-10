@@ -15,4 +15,4 @@
 ■ **Kangwon National University, Artificial Intelligence Cyber Security** (2022.03 ~ )
 
 ### [Stack]
-<img src="https://img.shields.io/badge/Linux-lightgray?style=flat-square&logo=Linux&logoColor=blue"/> <img src="https://img.shields.io/badge/Java-purple?style=flat-square&logo=java&logoColor=orange"/> <img src="https://img.shields.io/badge/C-blue?style=flat-square&logo=C&logoColor=orange"/> <img src="https://img.shields.io/badge/Python-orange?style=flat-square&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Linux-lightgray?style=flat-square&logo=Linux&logoColor=blue"/> <img src="https://img.shields.io/badge/Java-purple?style=flat-square&logo=java&logoColor=orange"/> <img src="https://img.shields.io/badge/C-blue?style=flat-square&logo=C&logoColor=orange"/> <img src="https://img.shields.io/badge/Python-orange?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-blue?style=flat-square&logo=oracle&logoColor=orange"/> 
