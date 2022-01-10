@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/22._.jr-deeppink?style=flat-square&logo=Instagram&logoColor=black"/> <img src="https://img.shields.io/badge/Kimjoonyeon-blue?style=flat-square&logo=Facebook&logoColor=white"/>  <img src="https://img.shields.io/badge/yeon8227-yellow?style=flat-square&logo=kakaotalk&logoColor=black"/>  <img src="https://img.shields.io/badge/GaveKite-skyblue?style=flat-square&logo=Telegram&logoColor=white"/> <img src="https://img.shields.io/badge/yeon8227@naver.com-green?style=flat-square&logo=naver&logoColor=white"/>  <img src="https://img.shields.io/badge/kimjoonyeon8227@gmail.com-lightgray?style=flat-square&logo=google&logoColor=red"/>  <img src="https://img.shields.io/badge/ 준연 2979 -navy?style=flat-square&logo=discord&logoColor=white"/> 
 
 ### [Who Am I]
-**I'm currently learning Computer-imformation-communication & Cyber Security** 
+**I'm currently learning Computer-Imformation-Communication Engineering & Artificial Intelligence-Cyber Security** 
 
 
 ### [Experience]
