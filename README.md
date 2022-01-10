@@ -8,9 +8,13 @@
 ### [Experience]
 ■ **Kangwon National University, Computer Information Communication Engineering** (2018.03 ~ )
 
-■ **Republic Of Korea Army Sergent, honorable discharge** **[Tiger DIV]** (2019.04.02 ~ 2020.11.03)
+■ **GS25 Chuncheon Seoksa Branch, Store Manager** (2018.04 ~ 2018.12)
 
-■ **KISIA[Korea Information Security Industry Association] Youth Experience type Intern** (2021.10.05 ~ 2021.12.03)
+■ **Republic Of Korea Army Sergent, Honorable Discharge** **[Tiger DIV]** (2019.04.02 ~ 2020.11.03)
+
+■ **GS25 Uljin Saemasil Branch, Store Manager** (2021.03 ~ 2021.05)
+
+■ **KISIA[Korea Information Security Industry Association], Youth Experience type Intern** (2021.10.05 ~ 2021.12.03)
 
 ■ **Kangwon National University, Artificial Intelligence Cyber Security** (2022.03 ~ )
 
