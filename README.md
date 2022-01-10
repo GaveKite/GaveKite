@@ -33,3 +33,18 @@
 
 ## [Tool]
 <img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Sublime Text-ff9800?style=flat-square&logo=Sublime Text&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-2c2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-5c2d91?style=flat-square&logo=Visual Studio&logoColor=white"/>
+
+## [Certificate]
+■ **Driver license [Type 1, Normal]** (2018.02.07)
+
+■ **Construction machinery pilot's license[Forklift]** (2021.08.30)
+
+■ **Driver license [Type 1, Big]** (2022.02.15 - goint to get it)
+
+■ **Linux Master 2 rate** (2022.03.12 - going to get it)
+
+■ **Network Manager 2 rate** (2022.07 - going to get it)
+
+■ **Computer application ability 1 rate** (2022.08 - going to get it)
+
+
