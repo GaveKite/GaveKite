@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/22._.jr-e4405f?style=flat-square&logo=Instagram&logoColor=black"/> <img src="https://img.shields.io/badge/Kimjoonyeon-blue?style=flat-square&logo=Facebook&logoColor=white"/>  <img src="https://img.shields.io/badge/yeon8227-ffcd00?style=flat-square&logo=kakaotalk&logoColor=black"/>  <img src="https://img.shields.io/badge/GaveKite-26a5e4?style=flat-square&logo=Telegram&logoColor=black"/> <img src="https://img.shields.io/badge/yeon8227@naver.com-03c75a?style=flat-square&logo=naver&logoColor=white"/>  <img src="https://img.shields.io/badge/kimjoonyeon8227@gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=black"/>  <img src="https://img.shields.io/badge/ 준연 2979 -5865f2?style=flat-square&logo=discord&logoColor=white"/> 
 
 ## [Who Am I]
-**School : Kangwon National University, Chuncheon campus**
+**School : Kangwon National University, Chuncheon ampus**
 
 **Major : Computer Information and Communication Engineering**
 
