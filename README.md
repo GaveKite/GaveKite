@@ -64,7 +64,7 @@
 ■ **Computer application ability [1 rate]** (2022.08 - going to get it)
 
 ## 😍[Hobby]😍
-**📈Analyst** <br>
+**📈Analyst📉** <br>
 <img src="https://img.shields.io/badge/Klaytn-blue?style=flat-square&logo=Kakao&logoColor=white"/> <img src="https://img.shields.io/badge/KlaySwap-orange?style=flat-square&logo=Kakao&logoColor=white"/> <img src="https://img.shields.io/badge/Ethereum-3c3c3d?style=flat-square&logo=Ethereum&logoColor=white"/> <img src="https://img.shields.io/badge/Samsung-1428a0?style=flat-square&logo=Samsung&logoColor=white"/> <img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Apple&logoColor=white"/> <br>
 
 **🎮Playing🎮** <br>
