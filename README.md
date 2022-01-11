@@ -13,15 +13,15 @@
 ## [Experience]
 ■ **Kangwon National University, Computer Information Communication Engineering** (2018.03 ~ )
 
-■ **GS25 Chuncheon Seoksa Branch, Store Manager** (2018.04 ~ 2018.12)
+■ **GS25, Chuncheon Seoksa Branch, Store Manager** (2018.04 ~ 2018.12)
 
-■ **No.1973 Unit - Republic Of Korea Army Sergent, Honorable Discharge** **[Capital Mechanized Infantry DIV]** (2019.04.02 ~ 2020.11.03)
+■ **No.1973 Unit, Republic Of Korea Army Sergent, Honorable Discharge** **[Capital Mechanized Infantry DIV]** (2019.04.02 ~ 2020.11.03)
 
-■ **Farmland Registers Cleanup Assistant, Uljin-eup Office** (2020.11.03 ~ 2020.12.31)
+■ **Uljin-eup Office, Farmland Registers Cleanup Assistant** (2020.11.03 ~ 2020.12.31)
 
-■ **GS25 Uljin Saemasil Branch, Store Manager** (2021.03 ~ 2021.05)
+■ **GS25, Uljin Saemasil Branch, Store Manager** (2021.03 ~ 2021.05)
 
-■ **Farmland Registers Cleanup Assistant, Uljin-eup Office** (2021.06 ~ 2021.07)
+■ **Uljin-eup Office, Farmland Registers Cleanup Assistant** (2021.06 ~ 2021.07)
 
 ■ **KISIA [Korea Information Security Industry Association], Youth Experience type Intern** (2021.10.05 ~ 2021.12.03)
 
