@@ -52,4 +52,7 @@
 <img src="https://img.shields.io/badge/Klaytn-blue?style=flat-square&logo=Kakao&logoColor=white"/> <img src="https://img.shields.io/badge/KlaySwap-orange?style=flat-square&logo=Kakao&logoColor=white"/> <img src="https://img.shields.io/badge/Ethereum-3c3c3d?style=flat-square&logo=Ethereum&logoColor=white"/> <img src="https://img.shields.io/badge/Samsung-1428a0?style=flat-square&logo=Samsung&logoColor=white"/> <img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Apple&logoColor=white"/> <br>
 
 ■ **Playing** <br>
-<img src="https://img.shields.io/badge/LOL-d32936?style=flat-square&logo=Riot Games&logoColor=white"/> <img src="https://img.shields.io/badge/StarCraft-148eff?style=flat-square&logo=Battle.net&logoColor=white"/> <img src="https://img.shields.io/badge/PUBG-000000?style=flat-square&logo=Steam&logoColor=white"/>
+<img src="https://img.shields.io/badge/LOL-d32936?style=flat-square&logo=Riot Games&logoColor=white"/> <img src="https://img.shields.io/badge/StarCraft-148eff?style=flat-square&logo=Battle.net&logoColor=white"/> <img src="https://img.shields.io/badge/PUBG-000000?style=flat-square&logo=Steam&logoColor=white"/> <br>
+
+■ **Like** <br>
+<img src="https://img.shields.io/badge/Drive-05141f?style=flat-square&logo=Kia&logoColor=white"/> <img src="https://img.shields.io/badge/Trip-ff5a5f?style=flat-square&logo=Airbnb&logoColor=white"/> <img src="https://img.shields.io/badge/Melon-green?style=flat-square&logo=Apple Music&logoColor=white"/> <img src="https://img.shields.io/badge/YouTube-ff0000?style=flat-square&logo=Youtube&logoColor=white"/> <img src="https://img.shields.io/badge/Netflix-e50914?style=flat-square&logo=Netflix&logoColor=white"/> 
