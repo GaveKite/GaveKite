@@ -1,5 +1,5 @@
 # Hi there! My name is Joonyeon Kim 👋
-<a href="https://www.instagram.com/22._.jr" target="_blank"><img src="https://img.shields.io/badge/22._.jr-e4405f?style=flat-square&logo=Instagram&logoColor=black"/> <a href="https://www.facebook.com/GaveKite" target="_blank"><img src="https://img.shields.io/badge/Kimjoonyeon-blue?style=flat-square&logo=Facebook&logoColor=white"/>  <a href="https://user-images.githubusercontent.com/91503825/148906514-5a571adc-663d-42cc-a24a-4728b11cd576.jpg" target="_blank"><img src="https://img.shields.io/badge/yeon8227-ffcd00?style=flat-square&logo=kakaotalk&logoColor=black"/>  <img src="https://img.shields.io/badge/GaveKite-26a5e4?style=flat-square&logo=Telegram&logoColor=black"/> <img src="https://img.shields.io/badge/yeon8227@naver.com-03c75a?style=flat-square&logo=naver&logoColor=white"/>  <img src="https://img.shields.io/badge/kimjoonyeon8227@gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=black"/>  <img src="https://img.shields.io/badge/ 준연 2979 -5865f2?style=flat-square&logo=discord&logoColor=white"/> <img src="https://img.shields.io/badge/KimJoonYeon-004680?style=flat-square&logo=TeamViewer&logoColor=white"/>
+<a href="https://www.instagram.com/22._.jr" target="_blank"><img src="https://img.shields.io/badge/22._.jr-e4405f?style=flat-square&logo=Instagram&logoColor=black"/> <a href="https://www.facebook.com/GaveKite" target="_blank"><img src="https://img.shields.io/badge/Kimjoonyeon-blue?style=flat-square&logo=Facebook&logoColor=white"/>  <a href="https://user-images.githubusercontent.com/91503825/148906514-5a571adc-663d-42cc-a24a-4728b11cd576.jpg" target="_blank"><img src="https://img.shields.io/badge/yeon8227-ffcd00?style=flat-square&logo=kakaotalk&logoColor=black"/>  <a href="https://user-images.githubusercontent.com/91503825/148907439-a8120bc1-74e8-4e0c-90d7-3f8f98ee0a82.jpg" target="_blank"><img src="https://img.shields.io/badge/GaveKite-26a5e4?style=flat-square&logo=Telegram&logoColor=black"/> <img src="https://img.shields.io/badge/yeon8227@naver.com-03c75a?style=flat-square&logo=naver&logoColor=white"/>  <img src="https://img.shields.io/badge/kimjoonyeon8227@gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=black"/>  <img src="https://img.shields.io/badge/ 준연 2979 -5865f2?style=flat-square&logo=discord&logoColor=white"/> <img src="https://img.shields.io/badge/KimJoonYeon-004680?style=flat-square&logo=TeamViewer&logoColor=white"/>
 
 ## [Who Am I]
 ■ **School : Kangwon National University, Chuncheon Campus**
@@ -33,7 +33,12 @@
 
 
 ## [Tool]
-<img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Sublime Text-ff9800?style=flat-square&logo=Sublime Text&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=black"/> <img src="https://img.shields.io/badge/Eclipse-2c2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-5c2d91?style=flat-square&logo=Visual Studio&logoColor=white"/> <br>
+<img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=Git&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Sublime Text-ff9800?style=flat-square&logo=Sublime Text&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/Eclipse-2c2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Visual Studio-5c2d91?style=flat-square&logo=Visual Studio&logoColor=white"/> <br>
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=Microsoft Excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Access-a4373a?style=flat-square&logo=Microsoft Access&logoColor=white"/>
 <img src="https://img.shields.io/badge/Word-2b579a?style=flat-square&logo=Microsoft Word&logoColor=white"/>
@@ -64,4 +69,8 @@
 <img src="https://img.shields.io/badge/LOL-d32936?style=flat-square&logo=Riot Games&logoColor=white"/> <img src="https://img.shields.io/badge/StarCraft-148eff?style=flat-square&logo=Battle.net&logoColor=white"/> <img src="https://img.shields.io/badge/PUBG-000000?style=flat-square&logo=Steam&logoColor=white"/> <br>
 
 ■ **Like** <br>
-<img src="https://img.shields.io/badge/Drive-05141f?style=flat-square&logo=Kia&logoColor=white"/> <img src="https://img.shields.io/badge/Trip-ff5a5f?style=flat-square&logo=Airbnb&logoColor=white"/> <img src="https://img.shields.io/badge/Melon-green?style=flat-square&logo=Apple Music&logoColor=white"/> <img src="https://img.shields.io/badge/YouTube-ff0000?style=flat-square&logo=Youtube&logoColor=white"/> <img src="https://img.shields.io/badge/Netflix-e50914?style=flat-square&logo=Netflix&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Drive-05141f?style=flat-square&logo=Kia&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Trip-ff5a5f?style=flat-square&logo=Airbnb&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Melon-green?style=flat-square&logo=Apple Music&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/YouTube-ff0000?style=flat-square&logo=Youtube&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Netflix-e50914?style=flat-square&logo=Netflix&logoColor=white"/> 
