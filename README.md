@@ -62,7 +62,7 @@
 ■ **MainBoard : MSI - H410M PRO (MS-7C89) Intel H410(6W)**<br>
 ■ **Dual Monitor : SAMSUNG SmartMonitor (S27AM500) / LG Monitor (24EA57VQ)**<br>
 ■ **KeyBoard : LEOPOLD FC980M(Low noise Red switch)**<br>
-■ **Mouse : Logitech G402**<br>
+■ **Mouse : Logitech G402 GamingMouse**<br>
 
     
 ## 📰[Certificate]📰
