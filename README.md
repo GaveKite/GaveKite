@@ -51,8 +51,21 @@
 <img src="https://img.shields.io/badge/PPT-b7472a?style=flat-square&logo=Microsoft PowerPoint&logoColor=white"/>
 <img src="https://img.shields.io/badge/Zoom-2d8cff?style=flat-square&logo=Zoom&logoColor=white"/>
 <img src="https://img.shields.io/badge/OBS-302E31?style=flat-square&logo=OBS Studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/PUTTY-4d4d4d?style=flat-square&logo=Windows Terminal&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/PUTTY-4d4d4d?style=flat-square&logo=Windows Terminal&logoColor=white"/><br>   
+    
+## 📰[Certificate]📰
+■ **Driver license [Type 1, Normal]** (2018.02.07)
 
+■ **Construction machinery pilot's license[Forklift]** (2021.08.30)
+
+■ **Driver license [Type 1, Big]** (2022.02.15 - goint to get it)
+
+■ **Linux Master [2 rate]** (2022.03.12 - going to get it)
+
+■ **Network Manager [2 rate]** (2022.07 - going to get it)
+
+■ **Computer application ability [1 rate]** (2022.08 - going to get it) <br>
+    
 ## 💻[Specs Of DeskTop]💻
 ■ **CPU : Intel Core i5-10400F @2.90GHz**<br>
 ■ **GPU : NVDIA GEFORCE GTX 1070Ti 8GB**<br> 
@@ -68,20 +81,7 @@
 ■ **iPhone SE 2** <br>
 ■ **iPad PRO 11.3**<br>
 ■ **Apple Watch SE**<br>
-■ **AirPods PRO**<br>   
-    
-## 📰[Certificate]📰
-■ **Driver license [Type 1, Normal]** (2018.02.07)
-
-■ **Construction machinery pilot's license[Forklift]** (2021.08.30)
-
-■ **Driver license [Type 1, Big]** (2022.02.15 - goint to get it)
-
-■ **Linux Master [2 rate]** (2022.03.12 - going to get it)
-
-■ **Network Manager [2 rate]** (2022.07 - going to get it)
-
-■ **Computer application ability [1 rate]** (2022.08 - going to get it) <br>
+■ **AirPods PRO**<br>
 
 ## 😍[Hobby]😍
 **📈Analyst📉** <br>
