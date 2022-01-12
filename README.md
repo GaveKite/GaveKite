@@ -63,7 +63,12 @@
 ■ **Dual Monitor : SAMSUNG SmartMonitor (S27AM500) / LG Monitor (24EA57VQ)**<br>
 ■ **KeyBoard : LEOPOLD FC980M(Low noise Red switch)**<br>
 ■ **Mouse : Logitech G402 GamingMouse**<br>
-
+    
+##📱[Devices]🎧
+■ **iPhone SE 2** <br>
+■ **iPad PRO 11.3**<br>
+■ **Apple Watch SE**<br>
+■ **AirPods PRO**<br>   
     
 ## 📰[Certificate]📰
 ■ **Driver license [Type 1, Normal]** (2018.02.07)
