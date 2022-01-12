@@ -64,7 +64,7 @@
 ■ **KeyBoard : LEOPOLD FC980M(Low noise Red switch)**<br>
 ■ **Mouse : Logitech G402 GamingMouse**<br>
     
-##📱[Devices]🎧
+## 📱[Devices]🎧
 ■ **iPhone SE 2** <br>
 ■ **iPad PRO 11.3**<br>
 ■ **Apple Watch SE**<br>
