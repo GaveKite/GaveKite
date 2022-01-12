@@ -96,3 +96,5 @@
   <img src="https://img.shields.io/badge/Melon-green?style=flat-square&logo=Apple Music&logoColor=white"/> 
   <img src="https://img.shields.io/badge/YouTube-ff0000?style=flat-square&logo=Youtube&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Netflix-e50914?style=flat-square&logo=Netflix&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/BaseBall-041e42?style=flat-square&logo=MLB&logoColor=white"/>
+    <img src="https://img.shields.io/badge/EPL-360d3a?style=flat-square&logo=Premier League&logoColor=white"/>
