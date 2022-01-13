@@ -79,7 +79,7 @@
     
 ## 📱[Devices]🎧
 ■ **iPhone SE 2** <br>
-■ **iPad PRO 11.3**<br>
+■ **iPad PRO 11 3th Gen**<br>
 ■ **Apple Watch SE**<br>
 ■ **AirPods PRO**<br>
 
