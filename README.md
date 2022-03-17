@@ -71,7 +71,7 @@
 ■ **GPU : NVDIA GEFORCE GTX 1070Ti 8GB**<br> 
 ■ **OS : Windows 10 Pro 64-bit**<br>
 ■ **Storage[1TB] : RevuAhn 960X 512GB (SSD) / TOSHIBA DT01ACA050 512GB (HDD)**<br>
-■ **Memory Storage : 16GB (8GB*2)**<br> 
+■ **Memory Storage : 32GB (16GB*2)**<br> 
 ■ **MainBoard : MSI - H410M PRO (MS-7C89) Intel H410(6W)**<br>
 ■ **Dual Monitor : SAMSUNG SmartMonitor (S27AM500) / LG Monitor (24EA57VQ)**<br>
 ■ **KeyBoard : LEOPOLD FC980M(Low noise Red switch)**<br>
