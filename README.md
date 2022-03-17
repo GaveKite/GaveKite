@@ -58,7 +58,7 @@
 
 ■ **Construction machinery pilot's license[Forklift]** (2021.08.30)
 
-■ **Driver license [Type 1, Big]** (2022.02.15 - goint to get it)
+■ **Driver license [Type 1, Big]** (2022.02.21)
 
 ■ **Linux Master [2 rate]** (2022.03.12 - going to get it)
 
