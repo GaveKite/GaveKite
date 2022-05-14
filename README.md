@@ -68,7 +68,7 @@
     
 ## 💻[Specs Of DeskTop]💻
 ■ **CPU : Intel Core i5-10400F @2.90GHz**<br>
-■ **GPU :GIGABYTE RTX 3070 TI VISION OC DX6 8GB**<br> 
+■ **GPU : GIGABYTE RTX 3070 TI VISION OC DX6 8GB**<br> 
 ■ **OS : Windows 10 Pro 64-bit**<br>
 ■ **Storage[1TB] : RevuAhn 960X 512GB (SSD) / TOSHIBA DT01ACA050 512GB (HDD)**<br>
 ■ **Memory Storage : 32GB (16GB*2)**<br> 
