@@ -60,16 +60,16 @@
 
 ■ **Driver license [Type 1, Big]** (2022.02.21)
 
-■ **Linux Master [2 rate]** (2022.03.12 - going to get it)
+■ **Linux Master [2 rate]** (2022.09.23)
 
-■ **Network Manager [2 rate]** (2022.07 - going to get it)
+■ **Network Manager [2 rate]** (2022.09 - going to get it)
 
-■ **Computer application ability [1 rate]** (2022.08 - going to get it) <br>
+■ **Computer application ability [1 rate]** (2022.08.19) <br>
     
 ## 💻[Specs Of DeskTop]💻
 ■ **CPU : Intel Core i5-10400F @2.90GHz**<br>
 ■ **GPU : GIGABYTE RTX 3070 TI VISION OC DX6 8GB**<br> 
-■ **OS : Windows 10 Pro 64-bit**<br>
+■ **OS : Windows 11 Pro 64-bit**<br>
 ■ **Storage[1TB] : RevuAhn 960X 512GB (SSD) / TOSHIBA DT01ACA050 512GB (HDD)**<br>
 ■ **Memory Storage : 32GB (16GB*2)**<br> 
 ■ **MainBoard : MSI - H410M PRO (MS-7C89) Intel H410(6W)**<br>
