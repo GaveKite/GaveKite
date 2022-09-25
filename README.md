@@ -62,7 +62,7 @@
 
 ■ **Linux Master [2 rate]** (2022.09.23)
 
-■ **Network Manager [2 rate]** (2022.09 - going to get it)
+■ **Network Manager [2 rate]** (2022.10.04)
 
 ■ **Computer application ability [1 rate]** (2022.08.19) <br>
     
